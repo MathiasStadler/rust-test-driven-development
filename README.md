@@ -8,7 +8,7 @@ cargo test
 
 ## call testcase inside another file
 
-:ERROR error: a bin target must be available for `cargo run`
+:x: error: a bin target must be available for `cargo run`
 
 ```bash
 echo TEST
